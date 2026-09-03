@@ -35,6 +35,7 @@ export const assets = {
 
 export const projectsData = [
     {
+      // title:"Balaju",
       title: "Skyline Haven",
       price: "$2,50,000",
       location: "California",
