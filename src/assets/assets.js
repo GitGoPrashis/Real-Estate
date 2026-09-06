@@ -37,38 +37,38 @@ export const projectsData = [
     {
       // title:"Balaju",
       title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
+      price: "Rs.2,50,000",
+      location: "Balaju",
       image: project_img_1
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "Rs.2,50,000",
+      location: "Nepaltar",
       image: project_img_2
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "Rs.2,50,000",
+      location: "Manamaiju",
       image: project_img_3
     },
     {
       title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
+      price: "Rs.2,50,000",
+      location: "Macchapokhari",
       image: project_img_4
     },
     {
       title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      price: "Rs.2,50,000",
+      location: "Pokhara",
       image: project_img_5
     },
     {
       title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      price: "Rs.2,50,000",
+      location: "Kathmandu",
       image: project_img_6
     },
     
@@ -76,7 +76,7 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
+        name: "Ram hari",
         title: "Marketing Manager",
         image: profile_img_1,
         alt: "Portrait of Donald Jackman",
@@ -84,7 +84,7 @@ export const projectsData = [
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
-        name: "Richard Nelson",
+        name: "krishna sharma",
         title: "UI/UX Designer",
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
@@ -92,7 +92,7 @@ export const projectsData = [
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
-        name: "James Washington",
+        name: "Ramesh tharu",
         title: "Co-Founder",
         image: profile_img_3,
         alt: "Portrait of James Washington",
